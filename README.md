@@ -1,20 +1,5 @@
-### Hi there 👋
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-11234
-Fork on GitHub
-2846
+ 👋
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h3 align="center">Full-Stack JS-разработчик из СПБ:)</h3>
 
 - 🌱 I’m currently learning **Reac**
